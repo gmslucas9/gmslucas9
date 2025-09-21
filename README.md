@@ -1,5 +1,5 @@
 ### Bem Vindo ao meu perfil! Me chamo Lucas.
-    Tenho 19 anos e estou cursando Sistemas de Informação na Unifacisa. 
+    Tenho 20 anos e estou cursando Sistemas de Informação na Unifacisa. 
     Sou um desenvolvedor full-stack com conhecimento sólido em HTML, CSS, JavaScript e frameworks como Angular e React Native. 
     Sempre buscando aprimorar minhas habilidades em tecnologias web e trabalhar com boas práticas de desenvolvimento. 
     Proativo e com foco em resultados, estou sempre aberto a novos desafios e oportunidades para expandir meu conhecimento.
